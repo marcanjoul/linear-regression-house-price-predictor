@@ -77,12 +77,11 @@ reg.fit(df[['area']], df['price'])
 
 ---
 
-## How to add it to your repo
+## Credits
+Built with 💻 and ☕ by @marcanjoul
 
-```bash
-touch README.md
-# paste the content above
-git add README.md
-git commit -m "Add project README explaining linear regression workflow"
-git push
-```
+---
+
+## Want to improve or collaborate?
+
+Open an issue, drop a PR, or fork it and make it your own. I'd appreciate any feedback!
