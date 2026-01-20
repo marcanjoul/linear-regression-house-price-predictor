@@ -1,8 +1,15 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
 __pycache__/
+*.pyc
+
+# macOS
 .DS_Store
-pred vs act(single) .png
-image-1.png
-image-2.png
-image.png
-Predicted Price VS Actual Price Based on Multi-Feature Prediction .png
+
+# Generated images
+images/
+
+# (Optional) CSV outputs if you don't want to track predictions
+# *.csv
