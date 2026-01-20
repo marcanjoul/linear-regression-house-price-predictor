@@ -2,4 +2,7 @@
 __pycache__/
 .DS_Store
 pred vs act(single) .png
-README.md
+image-1.png
+image-2.png
+image.png
+Predicted Price VS Actual Price Based on Multi-Feature Prediction .png
