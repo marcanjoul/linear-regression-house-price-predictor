@@ -44,8 +44,8 @@ By comparing both models, this project demonstrates:
 ## 📊 Visual Comparison of Actual vs Predicted Price
 
 <p align="center">
-  <img src="image-1.png" width="52.5%" />
-  <img src="image-2.png" width="45%" />
+  <img src="Predicted Price VS Actual Price (Single) .png" width="52.5%" />
+  <img src="Predicted Price VS Actual Price (Multiple)png" width="45%" />
 </p>
 
 <p align="center">
