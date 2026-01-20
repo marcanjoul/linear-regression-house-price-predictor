@@ -44,10 +44,16 @@ By comparing both models, this project demonstrates:
 ## 📊 Visual Comparison of Actual vs Predicted Price
 
 ### Single-Variable Model
-![alt text](image-1.png){width=300px}
+<p align="center">
+  <img src="image-1.png" width="300">
+</p>
 
 ### Multiple-Variable Model
-![alt text](image-2.png){width=300px}
+<p align="center">
+  <img src="image-2.png" width="300">
+</p>
+
+As we can see, the multi-variable model closely matches the actual price plot line, confirming its superior predictive performance
 
 ---
 
