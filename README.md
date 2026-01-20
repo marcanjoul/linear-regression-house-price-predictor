@@ -41,20 +41,13 @@ By comparing both models, this project demonstrates:
 
 ---
 
-## 📊 Visual Comparison
+## 📊 Visual Comparison of Actual vs Predicted Price
 
 ### Single-Variable Model
-
-![alt text](image.png)
-* Shows a weak-to-moderate linear relationship
+![alt text](image-1.png){width=300px}
 
 ### Multiple-Variable Model
-
-* Uses multiple numerical features
-* Produces predictions closer to actual prices
-* Displays reduced error and higher R² score
-
-📸 *(Screenshots of both regression plots and residual plots can be added here for visual comparison.)*
+![alt text](image-2.png){width=300px}
 
 ---
 
