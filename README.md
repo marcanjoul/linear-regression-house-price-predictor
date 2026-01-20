@@ -43,15 +43,15 @@ By comparing both models, this project demonstrates:
 
 ## 📊 Visual Comparison of Actual vs Predicted Price
 
-### Single-Variable Model
 <p align="center">
-  <img src="image-1.png" width="300">
+  <img src="image-1.png" width="52.5%" />
+  <img src="image-2.png" width="45%" />
 </p>
 
-### Multiple-Variable Model
 <p align="center">
-  <img src="image-2.png" width="300">
+  <em>Left: Single-Variable Linear Regression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; Right: Multiple-Variable Linear Regression</em>
 </p>
+
 
 As we can see, the multi-variable model closely matches the actual price plot line, confirming its superior predictive performance
 
@@ -125,7 +125,6 @@ This simulates how trained ML models are reused on unseen data in practice.
 
 * Python
 * pandas
-* numpy
 * matplotlib
 * scikit-learn
 
@@ -134,5 +133,14 @@ This simulates how trained ML models are reused on unseen data in practice.
 ## 🙌 Credits
 
 Built with 💻 and ☕ by **@marcanjoul**
+### Dataset
+
+The dataset used in this project was sourced from Kaggle:
+
+- **Name:** Real Estate Price Insights
+- **Source:** Kaggle  
+- **Link:** [https://www.kaggle.com/datasets/wardabilal/real-estate-price-insights]
+
+The dataset was used for educational purposes to explore linear and multiple linear regression techniques.
 
 ---
