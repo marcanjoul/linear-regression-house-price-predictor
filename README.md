@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction with Linear Regression
 
-This project explores **linear regression** as a machine learning technique for predicting house prices, starting with a **single-variable model** and extending to a **multiple-variable model**.
+This project explores **linear regression** as a supervised machine learning technique for predicting house prices, starting with a **single-variable model** and extending to a **multiple-variable model**.
 
 The goal is to understand **how feature selection impacts model performance**, and why incorporating multiple features leads to more accurate and reliable predictions.
 
